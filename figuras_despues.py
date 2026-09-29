@@ -37,4 +37,4 @@ circulo = Circulo(5)
 triangulo = Triangulo(10, 5)
 
 print(f"Área del círculo: {circulo.calcular_area():.2f}")
-print(f"Área del triángulo: {triangulo.calcular_area():.2f}")
+print(f"Área del triángulo: {triangulo.calcular_area():.2f}") 

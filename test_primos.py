@@ -1,5 +1,4 @@
 import pytest
-
 # ==========================================
 # FASE 2 y 3: GREEN / REFACTOR
 # Escribir el código mínimo para que pase y 
@@ -14,7 +13,6 @@ def es_primo(numero):
         if numero % i == 0:
             return False
     return True
-
 # ==========================================
 # FASE 1: RED
 # Escribir primero el test unitario.
